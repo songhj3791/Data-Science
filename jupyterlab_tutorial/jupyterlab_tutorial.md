@@ -22,6 +22,7 @@
   
 
 > Add Python 3.9 to PATH
+> 
 > Click Install Now
   
 
@@ -47,7 +48,9 @@ If you do not set as above, you need to type python installed path on the comman
 ### 4. Check pip installation
 
 > Enter `pip` into command line
+> 
 > https://realpython.com/what-is-pip/
+> 
 > pip is packages manager for python
 
 After installation python, pip has already been installed with python
